@@ -19,7 +19,7 @@ Curso: Algoritmia y Programación
 
 ## PARQ_UDEA
 
-![logo]()
+<img src="https://github.com/katerynlopez/Q-de-A/blob/main/QdeA%20logo.jpg" width="300" height="300">
 
 El parqueadero Parqudea es un espacio que presta su servicio a vehículos del sector de la Universidad de Antioquia. Este solo permite el ingreso de automóviles, el ingreso de motos no es aceptado. El parqueadero Parqudea requiere de sus habilidades como un equipo de programación de la respetada y bien ponderada Universidad de Antioquia para crear un software de consola en Python para poder gestionar usuarios, generar cobros, facturas, reportes y algo más.
 
