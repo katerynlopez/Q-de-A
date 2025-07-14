@@ -4,30 +4,10 @@ Profesor: John Heider Dávila Dávila.
 Curso: Algoritmia y Programación
 
 ### INTEGRANTES
-* Alexandra Vásquez Gallego
-* Carolayn Restrepo Tavera
 * Kateryn Lopez Serna
 
 
 ### VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
-
-### Alexandra Vásquez
-##### Estudiante de ingeniería industrial (virtual) sede Medellín
-##### Semestre: 4
-
-#### Habilidades y fortalezas
-* Resolución de problemas
-* Trabajo en equipo
-* Uso de herramientas digitales
-
-### Carolayn Restrepo Tavera
-##### Estudiante de de Ingeniería Indistrial (virtual) sede Medellín
-##### Semestre: 4
-
-#### Habilidades y fortalezas
-* Proactividad
-* Resistencia
-* Compromiso
 
 ### Kateryn López Serna
 ##### Estudiante de Ingeniería Industrial (virtual) sede Medellín
@@ -37,14 +17,9 @@ Curso: Algoritmia y Programación
 * Capacidad Analítica
 * Adaptabilidad
 
-[ACTA DE ENTENDIMIENTO](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20ENTENDIMIENTO.pdf)
-
-[ACTA DE COLABORACIÓN](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20COLABORACI%C3%93N.pdf)
-
-
 ## PARQ_UDEA
 
-![logo](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/_69d15de4-b5a9-44d2-ad32-344f9d5e7cf0-removebg-preview.png?raw=true)
+![logo]()
 
 El parqueadero Parqudea es un espacio que presta su servicio a vehículos del sector de la Universidad de Antioquia. Este solo permite el ingreso de automóviles, el ingreso de motos no es aceptado. El parqueadero Parqudea requiere de sus habilidades como un equipo de programación de la respetada y bien ponderada Universidad de Antioquia para crear un software de consola en Python para poder gestionar usuarios, generar cobros, facturas, reportes y algo más.
 
