@@ -165,6 +165,7 @@ while bandera:
     apellido = verificar_nombre("Por favor ingrese sus apellidos: ")
     documento = verificar_documento("Por favor ingrese su documento: ", 3, 15)
     datos = [placa,nombre, apellido, documento]
+    print(datos)
     break
   elif seleccion == 2:
     print("Ingresar Vehiculo")
